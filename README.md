@@ -1,3 +1,3 @@
 # hello-world
 Learning
-My name is Sarah and like unicorns and rainbows
+My name is Sarah and I like unicorns and rainbows
